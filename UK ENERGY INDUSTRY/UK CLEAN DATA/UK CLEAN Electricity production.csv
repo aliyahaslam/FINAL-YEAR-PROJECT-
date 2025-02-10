@@ -1,0 +1,36 @@
+Table 5.1.A Electricity production (GWh),,,,,,,,,
+This worksheet contains one table,,,,,,,,,
+Some cells refer to notes which can be found on the notes worksheet,,,,,,,,,
+"Freeze panes are active on this sheet, to turn off freeze panes select the 'view' then 'freeze panes' then 'unfreeze panes' or use [Alt W, F]?? ",,,,,,,,,
+Primary or secondary electricity,Generator type,Technology,,2018,2019,2020,2021,2022,2023
+Primary electricity,Major power producers,Total,,"120,318","119,308","125,885","111,626","127,679","123,070"
+Primary electricity,Major power producers,Nuclear,,"65,064","56,184","50,239","46,104","47,400","40,596"
+Primary electricity,Major power producers,Large scale hydro [note 7],,"3,461","3,839","5,007","3,736","3,916","3,812"
+Primary electricity,Major power producers,Small scale hydro [note 7],,339,351,0,0,0,0
+Primary electricity,Major power producers,"Wind and solar [note 8], [note 9]",,"51,454","58,934","70,639","61,786","76,362","78,662"
+Primary electricity,Other generators,Total,,"19,775","19,076","19,413","16,954","19,275","19,268"
+Primary electricity,Other generators,Nuclear,,0,0,0,0,0,0
+Primary electricity,Other generators,Large scale hydro [note 7],,687,702,710,712,681,692
+Primary electricity,Other generators,Small scale hydro [note 7],,956,"1,041","1,161",971,"1,064","1,034"
+Primary electricity,Other generators,"Wind and solar [note 8], [note 9]",,"18,131","17,333","17,542","15,272","17,531","17,543"
+Secondary electricity,Major power producers,Total,,"158,133","148,129","127,872","142,317","140,398","111,888"
+Secondary electricity,Major power producers,Coal,,"16,778","6,865","5,648","6,737","5,895","3,736"
+Secondary electricity,Major power producers,Oil,,627,671,512,718,815,581
+Secondary electricity,Major power producers,Gas,,"119,632","118,593","99,317","111,018","114,021","89,692"
+Secondary electricity,Major power producers,Bioenergy,,"19,965","20,838","20,949","22,218","18,085","16,326"
+Secondary electricity,Major power producers,Other fuels,,"1,131","1,161","1,446","1,626","1,582","1,553"
+Secondary electricity,Other generators,Total,,"32,992","38,823","35,445","34,996","35,374","35,614"
+Secondary electricity,Other generators,Coal,,53,50,51,49,48,39
+Secondary electricity,Other generators,Oil,,947,"1,317",919,"1,244","2,015","1,294"
+Secondary electricity,Other generators,Gas,,"11,857","14,495","12,577","11,818","11,084","11,967"
+Secondary electricity,Other generators,Bioenergy,,"15,136","16,689","17,617","17,783","17,755","17,761"
+Secondary electricity,Other generators,Other fuels,,"4,998","6,272","4,282","4,103","4,471","4,554"
+Total production [note 6],Total,Nuclear,,"65,064","56,184","50,239","46,104","47,400","40,596"
+Total production [note 6],Total,Hydro,,"5,443","5,933","6,878","5,418","5,661","5,538"
+Total production [note 6],Total,"Wind, wave and solar",,"69,585","76,267","88,181","77,058","93,893","96,205"
+Total production [note 6],Total,Coal,,"16,831","6,915","5,700","6,785","5,943","3,775"
+Total production [note 6],Total,Oil,,"1,573","1,988","1,431","1,962","2,830","1,875"
+Total production [note 6],Total,Gas,,"131,490","133,089","111,894","122,836","125,105","101,659"
+Total production [note 6],Total,Bioenergy,,"35,102","37,526","38,565","40,001","35,841","34,086"
+Total production [note 6],Total,Other fuels,,"6,129","7,433","5,727","5,729","6,053","6,107"
+Total production [note 6],Total,All,,"331,218","325,335","308,616","305,893","322,727","289,841"
