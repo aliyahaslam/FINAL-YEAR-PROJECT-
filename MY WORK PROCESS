@@ -2,3 +2,6 @@ I will be writing down what I have been doing.
 Firstly, I added all my files by making their respected folders.
 I am now adding another folder into the first folder to add a clean data pathway where I can add the cleaned data into.
 Some of the files are being cleaned manually by me making new excel documents and copying and pasting the work while others are being cleaned through google collab. 
+I have cleaned most of the files manually by putting the data into a new excel file as this was much easier. 
+The cleaning process for most of this was taking the years that I would be working with and all the other information on the sheet I needed.
+Although I sorted out the cleaning process for the years, there are some datasets that had some rows with no values or a 0 or a null therefore the plan is to put all the datasets into google collab and make sure to check all of this 
