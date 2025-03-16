@@ -4,4 +4,6 @@ I am now adding another folder into the first folder to add a clean data pathway
 Some of the files are being cleaned manually by me making new excel documents and copying and pasting the work while others are being cleaned through google collab. 
 I have cleaned most of the files manually by putting the data into a new excel file as this was much easier. 
 The cleaning process for most of this was taking the years that I would be working with and all the other information on the sheet I needed.
-Although I sorted out the cleaning process for the years, there are some datasets that had some rows with no values or a 0 or a null therefore the plan is to put all the datasets into google collab and make sure to check all of this 
+Although I sorted out the cleaning process for the years, there are some datasets that had some rows with no values or a 0 or a null therefore the plan is to put all the datasets into google collab and make sure to check all of this.
+I started to standardize all my datasets. At the start I did make the mistake of just using standard scaler which did not work with my datasets as I am not doing machine learning. That did set me back a week. 
+To get myself on schedule, I looked at each dataset and tried to see what I needed to do to make the dataset easier to compare. I had to go and search up the population datasets which I created and then started to standardize the datasets that needed that. 
